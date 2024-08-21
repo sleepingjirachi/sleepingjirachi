@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @sleepingjirachi
-- 👀 I’m interested in X
-- 🌱 I’m currently learning Y
-- 💞️ I’m looking to collaborate on Z
-- 📫 How to reach me A
-- 😄 Pronouns: B
-- ⚡ Fun fact: C
+- 👀 I’m interested in idk
+- 🌱 I’m currently learning idk
+- 📫 How to reach me: discord same username
+- ⚡ Fun fact: 1+1=2
 
 <!---
 sleepingjirachi/sleepingjirachi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
