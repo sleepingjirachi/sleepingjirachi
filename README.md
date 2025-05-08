@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sleepingjirachi
-- 👀 I’m interested in idk
-- 🌱 I’m currently learning idk
+- 👀 I’m interested in algorithmics
+- 🌱 I’m currently learning nothing
 - 📫 How to reach me: discord same username
-- ⚡ Fun fact: 1+1=2
+- ⚡ Fun fact: idk
 
 <!---
 sleepingjirachi/sleepingjirachi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
