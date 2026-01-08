@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sleepingjirachi
-- 👀 I’m interested in algorithmics
-- 🌱 I’m currently learning nothing
-- 📫 How to reach me: discord same username
-- ⚡ Fun fact: idk
+- 👀 I’m interested in physics
+- 🌱 I’m currently learning C++
+- 📫 How to reach me: 
+- ⚡ Fun fact: 
 
 <!---
 sleepingjirachi/sleepingjirachi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
